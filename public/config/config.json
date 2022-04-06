@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3e33b48acab90cdac2d826a8b18b8a7e9df96332",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x15bcdf3980f2bdb366e09a99300ef3a796506152483da20847a86eb74e4926bb",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 137
+  },
+  "NFT_NAME": "Wild Wolf Club",
+  "SYMBOL": "WWC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wild-wolf-club",
+  "SHOW_BACKGROUND": true
+}
